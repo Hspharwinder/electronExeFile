@@ -2,12 +2,13 @@
 first electron application. Tip how create exe file of electron
 # create first app reference
 https://www.electronjs.org/docs/tutorial/first-app
+----------------------------------------------------------------------------------------------------------
 
 # creating exe file
-1. for use in npm scripts
+1. (a.) for use in npm scripts
     npm install electron-packager --save-dev
 
-    for use from cli
+   (b.) for use from cli
     npm install electron-packager -g
     
 2. npm install --save-dev electron
